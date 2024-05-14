@@ -6,10 +6,13 @@ I just used your solution to create this tool..
 
 
 ## How to use:
-In build copy or select the path to the program buid.
-In packages specify the path to '__pypackages__' of your virtual environment or Python interpreter.
-Select the dependencies you want to load
-Click OK
+- In build copy or select the path to the program buid.
+
+- In packages specify the path to '__pypackages__' of your virtual environment or Python interpreter.
+
+- Select the dependencies you want to load
+
+- Click OK
 
 When loading the packages:
 
